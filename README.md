@@ -8,6 +8,12 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
 4.Buat flowchart dan penjelasan programnya pada README.md
 5.Commit dan Push ke repository github
 
+code :
+![_Untitled - Notepad 11_01_2020 13_17_43 (2)](https://user-images.githubusercontent.com/53391777/72199949-c63e2180-3475-11ea-99c1-df1998fdec17.png)
+![_Untitled - Notepad 11_01_2020 13_18_00 (2)](https://user-images.githubusercontent.com/53391777/72199952-cd652f80-3475-11ea-8890-562df9ed9c91.png)
+
+hasil :
+
 ![Labpy_5 code1](https://user-images.githubusercontent.com/53391777/72199829-2b911300-3474-11ea-8ae2-ff0cfd491c0d.png)
 
 ![labpy5 code 2](https://user-images.githubusercontent.com/53391777/72199833-50858600-3474-11ea-87f9-7b6c37473d18.png)
